@@ -1,0 +1,21 @@
+
+body {
+    font-family: "Dubai Medium";
+    background-color: lightgray;
+}
+
+h1 {
+
+    text-shadow: 4px 4px grey;
+    font-size: 64px;
+    text-align: center;
+}
+
+fieldset {
+    background-color: grey;
+    border-color: blue;
+    margin-left: 550px;
+    margin-top: 50px;
+    width: 300px;
+    height: auto;
+}
